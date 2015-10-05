@@ -14,7 +14,7 @@ The following steps happen on a daily basis to update the non-customized spender
 
 This table shows the positions from the Finance Security (Matrix) that are considered "spenders" (i.e. have spending privileges) and the spending role that each is assigned.
 
->| File    | Folder | Chart    | Period 
+| File    | Folder | Chart    | Period 
 |:------------|:------------|
 |Chart of Accounts		|...\ | NA |  |  NA |
 |Chart of Costcenters		|...\ | NA | NA
