@@ -15,12 +15,12 @@ The following steps happen on a daily basis to update the non-customized spender
 This table shows the positions from the Finance Security (Matrix) that are considered "spenders" (i.e. have spending privileges) and the spending role that each is assigned.
 
 | File    | Folder | Chart    | Period 
-|:------------|:------------|
-|Chart of Accounts		|...\ | NA |  |  NA |
-|Chart of Costcenters		|...\ | NA | NA
-|Chart of Financial Presentation |...\ | NA | NA
-|RHS Balance Sheet		|...\ | RHS | Current
-|RHS Income Statement	|...\ | RHS | Current
+|------------|------------|---------|-------|
+|Chart of Accounts		|...\ | NA | NA |
+|Chart of Costcenters		|...\ | NA | NA |
+|Chart of Financial Presentatio |...\ | NA | NA |
+|RHS Balance Sheet		|...\ | RHS | Current |
+|RHS Income Statement	        |...\ | RHS | Current |
 
   
 ###C. Specific Role Adjustment Based on Employee
